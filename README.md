@@ -8,3 +8,5 @@ It includes:
   - a register system
   - some questions from several different category
   - two levels of difficulty
+
+Also this folder contain a file, Documentatie, where i present my app writted in romanian.
